@@ -1,0 +1,244 @@
+{
+  "soal" : [
+    {
+      "id": 61,
+      "type": "Umum",
+      "soal": "Bersuci dengan debu disebut juga dengan...",
+      "answer": [
+        { "option": "A", "label": "Mandi" },
+        { "option": "B", "label": "Tayamum" },
+        { "option": "C", "label": "Wudhu" },
+        { "option": "D", "label": "Sembayang" }
+      ],
+      "correctOption": "B"
+    },
+    {
+      "id": 62,
+      "type": "Umum",
+      "soal": "Orang yang berpuasa harus menahan hal-hal di bawah ini, kecuali...",
+      "answer": [
+        { "option": "A", "label": "Lapar" },
+        { "option": "B", "label": "Kantuk" },
+        { "option": "C", "label": "Haus" },
+        { "option": "D", "label": "Hawa nafsu" }
+      ],
+      "correctOption": "B"
+    },
+    {
+        "id": 63,
+        "type": "Umum",
+        "soal": "Bagian tubuh yang harus ditutupi digolongkan sebagai..",
+        "answer": [
+          { "option": "A", "label": "Rupa" },
+          { "option": "B", "label": "Wajah" },
+          { "option": "C", "label": "Aura" },
+          { "option": "D", "label": "Aurat" }
+        ],
+        "correctOption": "D"
+    },
+    {
+        "id": 64,
+        "type": "Umum",
+        "soal": "Berbuat sesuatu semata-mata karena Allah disebut dengan..",
+        "answer": [
+          { "option": "A", "label": "Legowo" },
+          { "option": "B", "label": "Ikhlas" },
+          { "option": "C", "label": "Pamrih" },
+          { "option": "D", "label": "Takabur" }
+        ],
+        "correctOption": "B"
+    },
+    {
+        "id": 65,
+        "type": "Umum",
+        "soal": "Perpindahan dari suatu tempat ke tempat yang lebih baik disebut dengan...",
+        "answer": [
+          { "option": "A", "label": "Move on" },
+          { "option": "B", "label": "Mudik" },
+          { "option": "C", "label": "Hijrah" },
+          { "option": "D", "label": "Imigrasi" }
+        ],
+        "correctOption": "C"
+    },
+    {
+        "id": 66,
+        "type": "Umum",
+        "soal": "Makmum yang terlambat disebut dengan..",
+        "answer": [
+          { "option": "A", "label": "Masbuk" },
+          { "option": "B", "label": "Khatib" },
+          { "option": "C", "label": "Jamaah" },
+          { "option": "D", "label": "Marbot" }
+        ],
+        "correctOption": "A"
+    },
+    {
+      "id": 67,
+      "type": "Umum",
+      "soal": "Bagian terakhir yang dibasuh saat wudhu adalah...",
+      "answer": [
+        { "option": "A", "label": "Kepala" },
+        { "option": "B", "label": "Tangan" },
+        { "option": "C", "label": "Hidung" },
+        { "option": "D", "label": "Kaki" }
+      ],
+      "correctOption": "D"
+    },
+    {
+      "id": 68,
+      "type": "Umum",
+      "soal": "Sidang isbat penentuan 1 Ramadan 1444 H yang digelar pemerintah dipimpin oleh...",
+      "answer": [
+        { "option": "A", "label": "Presiden Republik Indonesia" },
+        { "option": "B", "label": "Menteri Agama Republik Indonesia" },
+        { "option": "C", "label": "Ketua Badan Meteorologi, Klimatologi, dan Geofisika" },
+        { "option": "D", "label": "Kepala Lembaga Penerbangan dan Antariksa Nasional" }
+      ],
+      "correctOption": "B"
+    },
+    {
+      "id": 69,
+      "type": "Agama",
+      "soal": "Lawan kata jujur adalah...",
+      "answer": [
+        { "option": "A", "label": "Dusta" },
+        { "option": "B", "label": "Amanah" },
+        { "option": "C", "label": "Sombong" },
+        { "option": "D", "label": "Baik" }
+      ],
+      "correctOption": "A"
+    },
+    {
+      "id": 70,
+      "type": "Umum",
+      "soal": "Selain jujur dalam perkataan, kita juga wajib jujur dalam...",
+      "answer": [
+        { "option": "A", "label": "Ungkapan" },
+        { "option": "B", "label": "Perbuatan" },
+        { "option": "C", "label": "Kemalasan" },
+        { "option": "D", "label": "Kemaksiatan" }
+      ],
+      "correctOption": "B"
+    },
+    {
+      "id": 71,
+      "type": "Umum",
+      "soal": "Ke arah mana pertama kali mengucap salam dalam salat?",
+      "answer": [
+        { "option": "A", "label": "Kiri" },
+        { "option": "B", "label": "Kanan" },
+        { "option": "C", "label": "Semua benar" },
+        { "option": "D", "label": "Bebas" }
+      ],
+      "correctOption": "B"
+    },
+    {
+      "id": 72,
+      "type": "Umum",
+      "soal": "Masjid Nabawi merupakan Masjid umat Islam yang terletak di kota...",
+      "answer": [
+        { "option": "A", "label": "Makkah" },
+        { "option": "B", "label": "Madinah" },
+        { "option": "C", "label": "Dubai" },
+        { "option": "D", "label": "Qatar" }
+      ],
+      "correctOption": "B"
+    },
+    {
+      "id": 73,
+      "type": "Umum",
+      "soal": "Membaca huruf hijaiyah yang benar diawali dari...",
+      "answer": [
+        { "option": "A", "label": "Kanan" },
+        { "option": "B", "label": "Kiri" },
+        { "option": "C", "label": "Belakang" },
+        { "option": "D", "label": "Semua benar" }
+      ],
+      "correctOption": "A"
+    },
+    {
+      "id": 74,
+      "type": "Umum",
+      "soal": "Bersuci sebelum melaksanakan salat disebut juga dengan...",
+      "answer": [
+        { "option": "A", "label": "Berkumur" },
+        { "option": "B", "label": "Berwudhu" },
+        { "option": "C", "label": "Berdoa" },
+        { "option": "D", "label": "Bersih-bersih" }
+      ],
+      "correctOption": "B"
+    },
+    {
+      "id": 75,
+      "type": "Umum",
+      "soal": "Al Quran sering juga disebut As Syifa yang berarti?",
+      "answer": [
+        { "option": "A", "label": "Petunjuk" },
+        { "option": "B", "label": "Rahmat" },
+        { "option": "C", "label": "Obat" },
+        { "option": "D", "label": "Cahaya" }
+      ],
+      "correctOption": "C"
+    },
+    {
+      "id": 76,
+      "type": "Umum",
+      "soal": "Masjid Al-Haram merupakan masjid terbesar di dunia dengan luas...",
+      "answer": [
+        { "option": "A", "label": "65.000 meter persegi" },
+        { "option": "B", "label": "165.000 meter persegi" },
+        { "option": "C", "label": "265.000 meter persegi" },
+        { "option": "D", "label": "365.000 meter persegi" }
+      ],
+      "correctOption": "D"
+    },
+    {
+      "id": 77,
+      "type": "Umum",
+      "soal": "Masjid terbesar di Indonesia adalah?",
+      "answer": [
+        { "option": "A", "label": "Masjid Istiqlal, Jakarta" },
+        { "option": "B", "label": "Masjid Al-Akbar, Surabaya" },
+        { "option": "C", "label": "Masjid Raya Baiturrahman, Banda Aceh" },
+        { "option": "D", "label": "Masjid Al-Jabbar, Bandung" }
+      ],
+      "correctOption": "A"
+    },
+    {
+      "id": 78,
+      "type": "Umum",
+      "soal": "Salat tarawih dilakukan pada waktu?",
+      "answer": [
+        { "option": "A", "label": "Pagi hari" },
+        { "option": "B", "label": "Siang hari" },
+        { "option": "C", "label": "Sore hari" },
+        { "option": "D", "label": "Malam hari" }
+      ],
+      "correctOption": "D"
+    },
+    {
+      "id": 79,
+      "type": "Umum",
+      "soal": "Apabila ada orang yang memberi salam sebaiknya kita...",
+      "answer": [
+        { "option": "A", "label": "Pergi" },
+        { "option": "B", "label": "Lari" },
+        { "option": "C", "label": "Menjawabnya" },
+        { "option": "D", "label": "Mengabaikannya" }
+      ],
+      "correctOption": "C"
+    },
+    {
+      "id": 80,
+      "type": "Umum",
+      "soal": "Apabila hendak berbicara sebaiknya berlandaskan...",
+      "answer": [
+        { "option": "A", "label": "Opini pribadi" },
+        { "option": "B", "label": "Opini orang lain" },
+        { "option": "C", "label": "Ilmu" },
+        { "option": "D", "label": "Hoax" }
+      ],
+      "correctOption": "C"
+    }
+  ]
+}
